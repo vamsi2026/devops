@@ -1,5 +1,16 @@
 #!/bin/bash
  
+###########
+#
+# Author: Vamsi
+# Date: 04/04/2025
+#
+#Version: V1
+#
+# Take inputs from user and add two number and gives sum
+#
+###########
+ 
 set -e
  
 
